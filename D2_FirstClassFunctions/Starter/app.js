@@ -26,3 +26,5 @@ logGreeting(greetMe);
 logGreeting(function(){
     console.log("hello Adolf");
 });
+
+//finished
